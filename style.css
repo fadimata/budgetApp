@@ -1,0 +1,38 @@
+.bi{
+    font-size: 30px;
+}
+td .bi{
+    font-size: 20px;
+}
+.budget_icone {
+    display: flex;
+   align-items: center;
+   justify-content: space-around;
+
+}
+.button{
+    
+  width: 7rem;
+  height: 3rem;
+  border-radius: 10px;
+}
+.button-history{
+    margin-top: 20px;
+    
+    border-radius: 5px;
+}
+ .Reset-value{
+  border: solid 1px rgb(240, 162, 45);
+ }
+
+ .calculate{
+    border: solid 1px rgb(15, 187, 138);
+ }
+    
+ .Add-expense{
+    border: solid 1px rgb(230, 71, 8);
+ }
+
+ .bi-pencil-square, .bi-trash-fill {
+    cursor: pointer;
+ }
